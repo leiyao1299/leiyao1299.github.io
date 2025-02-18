@@ -52,6 +52,8 @@ I am a **<font color='#1677D2'> Master of Electronic Information</font>** with a
 - **National Inspirational Scholarship**, 2021
 - **Xi'an University of Science and Technology Student Science and Technology Innovation Award**, 2021
 - **Second Prize, 8th "Xuechuang Cup" National College Student Entrepreneurship Comprehensive Simulation Competition**, 2021
+
+
 ***
 
 
