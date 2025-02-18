@@ -23,7 +23,7 @@ I am a **<font color='#1677D2'> Master of Electronic Information</font>** with a
 
 - **MLCDT: fine-grained multi-task learning for enhanced cognitive assessment in the clock drawing test**
   <br>
-  **Lei Yao**, Haomiao Ma, Haoran Sun, Yingwei Zhang, Shili Liang, Lei Zhang, Pan Shang, Shiwen Sun
+  **Lei Yao**, Haomiao Ma, Haoran Sun, Yingwei Zhang, Shili Liang, Lei Zhang*, Pan Shang, Shiwen Sun
   <br>
    Fourth International Conference on Computer Vision, Application, and Algorithm **CVAA 2024**
   <br>
@@ -31,7 +31,7 @@ I am a **<font color='#1677D2'> Master of Electronic Information</font>** with a
   <div style="height:1em" />
 - **SGECG: A StarGAN-based Framework for Intelligent ECG Generation and Augmentation**
   <br>
-  **Lei Yao**, Shiwen Sun, Rui Sun, Shili Liang, Lei Zhang
+  **Lei Yao**, Shiwen Sun, Rui Sun, Shili Liang*, Lei Zhang
   <br>
   2024 4th International Conference on Electronic Information Engineering and Computer Science. **EIECS 2024**.
   <br>
