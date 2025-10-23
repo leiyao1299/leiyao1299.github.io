@@ -3,17 +3,17 @@ layout: homepage
 ---
 
 # Biography
-I am a **<font color='#1677D2'> Master of Electronic Information</font>** with a strong passion for scientific research and the interdisciplinary application of cutting-edge technologies. Currently studying Electronic Information at Northeast Normal University, my research interests include **<font color='#1677D2'>Cognitive Impairment Detection</font>**,**<font color='#1677D2'>Emotion Recognition</font>**,**<font color='#1677D2'>Gaze Estimation</font>**,**<font color='#1677D2'>Physiological Signal Generation and Classification</font>**, and **<font color='#1677D2'>Cattle Behavior Detection</font>**.
+I am a **<font color='#1677D2'> PhD of Artificial Intelligence</font>** with a strong passion for scientific research and the interdisciplinary application of cutting-edge technologies. Currently studying Artificial Intelligence at the School of Artificial Intelligence,Jilin University, my research interests include **<font color='#1677D2'>Farm-scale Multimodal Spatiotemporal Foundation Model</font>**,**<font color='#1677D2'>Self-Supervised Contrastive Learning</font>**,**<font color='#1677D2'>Causal Representation Learning</font>**,**<font color='#1677D2'>Edge Real-Time Inference</font>**, and **<font color='#1677D2'>Cattle Behavior Detection</font>**.
 
 <font color='red'>I look forward to collaborating and exploring research together—feel free to reach out for discussion and cooperation!</font>
 
 ***
 
 # Research Directions
-- **Cognitive Impairment Detection**
-- **Emotion Recognition**
-- **Gaze Estimation**
-- **Physiological Signal Generation and Classification**
+- **Self-Supervised Contrastive Learning**
+- **Edge Real-Time Inference**
+- **Farm-scale Multimodal Spatiotemporal Foundation Model**
+- **Causal Representation Learning**
 - **Cattle Behavior Detection**
 
 ***
