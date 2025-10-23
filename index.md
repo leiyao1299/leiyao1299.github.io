@@ -42,7 +42,7 @@ I am a **<font color='#1677D2'> PhD of Artificial Intelligence</font>** with a s
   <br>
   Tao Yan, Huiying Shi, Liwen Mu, Zong Zheng, **Lei Yao**, Sangying Li, Zekun Chen, Xinyu Kang, Shili Liang, Lei Zhang, Suqiu Wang
   <br>
-  Biomedical Signal Processing and Control,Volume 113, Part A, March 2026, 108882.<strong><i style="color:#bf2818">[SCI II]</i></strong>
+  Biomedical Signal Processing and Control,Volume 113, Part A, March 2026, 108882.<strong><i style="color:#bf2818">[SCI 中科院II区]</i></strong>
   <br>
   [[Page](https://doi.org/10.1016/j.bspc.2025.108882)]<strong><i style="color:#e74d3c">Oral Presentation</i></strong>
   <div style="height:1em" />
