@@ -25,7 +25,7 @@ I am a **<font color='#1677D2'> Master of Electronic Information</font>** with a
   <br>
   **Lei Yao**, Haomiao Ma, Haoran Sun, Yingwei Zhang, Shili Liang, Lei Zhang*, Pan Shang, Shiwen Sun
   <br>
-   Fourth International Conference on Computer Vision, Application, and Algorithm **CVAA 2024**[(EI Conference)]<i style="color:#bf2818">
+   Fourth International Conference on Computer Vision, Application, and Algorithm **CVAA 2024**<strong><i style="color:#bf2818">[EI Conference]</i></strong>
   <br>
   [[Page](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13486/134860K/MLCDT--fine-grained-multi-task-learning-for-enhanced-cognitive/10.1117/12.3055764.short#:~:text=MLCDT%20integrates%20image%20pre-training%20models%20with%20a%20multi-task,constructs%20a%20final%20diagnostic%20support%20model%20through%20scientifically)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
   <div style="height:1em" />
@@ -33,7 +33,7 @@ I am a **<font color='#1677D2'> Master of Electronic Information</font>** with a
   <br>
   **Lei Yao**, Shiwen Sun, Rui Hou, Shili Liang*, Lei Zhang
   <br>
-  2024 4th International Conference on Electronic Information Engineering and Computer Science. **EIECS 2024**.[(EI Conference)]<i style="color:#bf2818">
+  2024 4th International Conference on Electronic Information Engineering and Computer Science. **EIECS 2024**.<strong><i style="color:#bf2818">[EI Conference]</i></strong>
   <br>
   [[Page](https://ieeexplore.ieee.org/xpl/conhome/10799922/proceeding)]<strong><i style="color:#e74d3c">Oral Presentation</i></strong>
   <div style="height:1em" />
@@ -42,7 +42,7 @@ I am a **<font color='#1677D2'> Master of Electronic Information</font>** with a
   <br>
   Tao Yan, Huiying Shi, Liwen Mu, Zong Zheng, **Lei Yao**, Sangying Li, Zekun Chen, Xinyu Kang, Shili Liang, Lei Zhang, Suqiu Wang
   <br>
-  Biomedical Signal Processing and Control.[(SCI II)]<i style="color:#bf2818">
+  Biomedical Signal Processing and Control,Volume 113, Part A, March 2026, 108882.<strong><i style="color:#bf2818">[SCI II]</i></strong>
   <br>
   [[Page](https://doi.org/10.1016/j.bspc.2025.108882)]<strong><i style="color:#e74d3c">Oral Presentation</i></strong>
   <div style="height:1em" />
