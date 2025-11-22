@@ -38,6 +38,14 @@ I am a **<font color='#1677D2'> PhD of Artificial Intelligence</font>** with a s
   [[Page](https://ieeexplore.ieee.org/xpl/conhome/10799922/proceeding)]<strong><i style="color:#e74d3c">Oral Presentation</i></strong>
   <div style="height:1em" />
   
+- **SideCow-VSS: A Video Semantic Segmentation Dataset and Benchmark for Intelligent Monitoring of Dairy Cows Health in Smart Ranch Environments**
+  <br>
+   **Lei Yao**,Jin Liu, Weinan Hong, Fanrong Kong, Zipei Fan, Lin Lei 3,XinweiLi
+  <br>
+  Veterinary Sciences, 2025, 12(11): 1104.
+  [[Page](https://doi.org/10.3390/vetsci12111104)]<strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  <div style="height:1em" />
+
 - **MMS-Net: A multi-task learning framework for 12-lead ECG reconstruction and disease classification from 3-lead inputs**
   <br>
   Tao Yan, Huiying Shi, Liwen Mu, Zong Zheng, **Lei Yao**, Sangying Li, Zekun Chen, Xinyu Kang, Shili Liang, Lei Zhang, Suqiu Wang
@@ -46,7 +54,6 @@ I am a **<font color='#1677D2'> PhD of Artificial Intelligence</font>** with a s
   <br>
   [[Page](https://doi.org/10.1016/j.bspc.2025.108882)]<strong><i style="color:#e74d3c">Oral Presentation</i></strong>
   <div style="height:1em" />
-
 ***
 
 # Patents
